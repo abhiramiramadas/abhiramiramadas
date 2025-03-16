@@ -10,7 +10,10 @@
 
 ### 🌍 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhirami-r-a226b5247/)  
-📫 **Email**: *abhiramiramadas2004@gmail.com*  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white)](#)
+<br>
+📫: *abhiramiramadas2004@gmail.com*   
+  
 
 ---
 <h3 align="left">Languages and Tools:</h3>
@@ -22,7 +25,14 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhiramiramadas&" alt="abhiramiramadas" /></p>
 
-
+## Design 👩‍💻
+![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=FF3366) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ---
+### 🌱 Currently Learning  
+- Machine Learning  
+- React.js & Frontend Frameworks  
+- Cloud Computing (GCP & AWS)
+  
+⚡ **Fun Fact:** I love exploring **UI/UX Design** and creating **interactive web experiences!**  
 
 🔗 **More about me coming soon!** 🚀
