@@ -1,10 +1,10 @@
 ## Hi, I'm Abhirami Ramadas! 👋  
 
-### 💡 About Me  
+### 💡 About Me 
+💻 **IT Engineering Student | 3rd Year**  
 🔭 Passionate about **technology, development, and problem-solving**  
 🌱 Currently learning **advanced web development & machine learning**  
-💬 Ask me about **frontend development, backend technologies, and data science**  
-⚡ Fun fact: I love exploring **3D design & digital art**  
+⚡ Fun fact: I love exploring **digital art**  
 
 ---
 
