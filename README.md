@@ -1,4 +1,4 @@
-## Hi, I'm Abhirami Ramadas! 👋  
+## Hi, I'm Abhirami Ramadas! 
 
 ### 💡 About Me 
 💻 **IT Engineering Student | 3rd Year**  
