@@ -10,8 +10,8 @@
 
 ### 🌍 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhirami-r-a226b5247/)  
-[![Portfolio](https://portfolio-blond-two-75.vercel.app/)
-<br>
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?logo=githubpages&logoColor=white)](https://portfolio-blond-two-75.vercel.app/)
+
 📫: *abhiramiramadas2004@gmail.com*   
   
 
