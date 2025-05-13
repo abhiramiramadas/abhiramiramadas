@@ -49,7 +49,7 @@
 **Frontend:** HTML, CSS, JavaScript, React, Bootstrap  
 **Backend:** Node.js, Express.js, PHP  
 **Database:** MySQL, Oracle  
-**Tools:** Git, Figma, Photoshop, GCP  
+**Tools:** Git, Figma 
 
   
 ⚡ **Fun Fact**: I love exploring **UI/UX design, digital art, and crafting interactive web experiences**!
