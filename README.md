@@ -1,4 +1,7 @@
-<center>![](https://komarev.com/ghpvc/?username=abhiramiramadas&color=blue)</center>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=abhiramiramadas&color=blue" alt="Profile Views" />
+</p>
+
 
 ## Hi, I'm Abhirami Ramadas! 
 
