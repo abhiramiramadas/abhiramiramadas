@@ -5,7 +5,7 @@
 
 ## Hi, I'm Abhirami Ramadas! 
 
-### 💡 About Me 
+### About Me 
 💻 **Final Year IT Engineering Student**  
 🔭Passionate about **building scalable solutions and solving real-world problems**  
 🌱 Currently learning **advanced web development & machine learning**  
