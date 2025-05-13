@@ -9,7 +9,11 @@
 💻 **Final Year IT Engineering Student**  
 🔭Passionate about **building scalable solutions and solving real-world problems**  
 🌱 Currently learning **advanced web development & machine learning**  
-⚡ Fun fact: I love exploring **digital art**  
+⚡ Fun fact: I love exploring **digital art** esp **pixel-art**  <br>
+<p align="center">
+<img src="https://github.com/user-attachments/assets/773e2ebb-78fe-46ea-9110-8f738a39b8f6" alt="kuromi" width="50"/>
+</p>
+
 
 ---
 
