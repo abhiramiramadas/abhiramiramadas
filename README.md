@@ -62,3 +62,4 @@
 ⚡ **Fun Fact**: I love exploring **UI/UX design, digital art, and crafting interactive web experiences**!
 
 🔗 **More projects and updates coming soon—stay tuned!** 🚀
+![](https://hit.yhype.me/github/profile?account_id=100674826)
