@@ -19,7 +19,7 @@ Fun fact: I love exploring **pixel-art**  <br>
 
 ### 🌍 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhirami-r-a226b5247/)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?logo=githubpages&logoColor=white)](https://portfolio-blond-two-75.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?logo=githubpages&logoColor=white)](https://abhiramiramadas-portfolio.vercel.app/)
 
 📫: *abhiramiramadas2004@gmail.com*   
   
