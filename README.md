@@ -1,7 +1,11 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=abhiramiramadas&color=blue" alt="Profile Views" />
 </p>
-[![committers.top badge](https://user-badge.committers.top/india_private/abhiramiramadas.svg)](https://user-badge.committers.top/india_private/abhiramiramadas)
+
+<a href="https://user-badge.committers.top/india_private/abhiramiramadas">
+  <img src="https://user-badge.committers.top/india_private/abhiramiramadas.svg" />
+</a>
+
 
 ## Hi, I'm Abhirami Ramadas! 
 
