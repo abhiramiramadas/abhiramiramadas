@@ -28,7 +28,7 @@ Currently learning:
 ## Find me
 
 LinkedIn  
-https://www.linkedin.com/in/abhirami-r-a226b5247/
+https://www.linkedin.com/in/abhiramiramadas
 
 Portfolio  
 https://abhiramiramadas-portfolio.vercel.app/
