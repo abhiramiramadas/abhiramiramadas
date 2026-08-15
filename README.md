@@ -4,7 +4,7 @@
 
 # Abhirami Ramadas
 
-aka: someone trying to make code work and occasionally succeeding
+aka: someone trying to make code work and occasionally succeeding.
 
 ---
 
