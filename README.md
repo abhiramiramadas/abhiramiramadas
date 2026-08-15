@@ -10,7 +10,7 @@ aka: someone trying to make code work and occasionally succeeding.
 
 ## About
 
-Final year IT engineering student
+IT Graduate.
 
 Builds things  
 Breaks them  
