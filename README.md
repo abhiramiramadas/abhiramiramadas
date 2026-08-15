@@ -42,8 +42,3 @@ Currently learning: **Machine Learning · React · Cloud (GCP + AWS) · Electron
 I will spend 3 hours fixing alignment and call it productivity.
 
 ---
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=abhiramiramadas&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=abhiramiramadas&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</p>
